@@ -1,0 +1,12 @@
+temp.py
+timing.py
+minimap_temp.py
+
+*.json
+*.txt
+
+jsons/*
+logs/*
+
+mapping/gifs/*
+mapping/kills/*
